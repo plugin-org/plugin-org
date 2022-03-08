@@ -10,12 +10,14 @@
     * [Why Plugin Hackathon](#Why-Plugin-Hackathon)
 * [Bounties](#Bounties-for-Participants)
     * [Overview](#Bounty-Overview)
-    * [Judging Criteria](#Judging-Criteria)
+    * [Judgement Criteria](#Judgement-Criteria)
 * [Industry to focus](#Industry_to_focus)
+* [Do's](#Do's)
+* [Dont's](#Dont's)
 
 ## Resources
 * [GOPLUGIN Website](https://www.goplugin.co/)
-* [GOPLUGIN_DOCS](https://docs.goplugin.co/)
+* [GOPLUGIN DOCS](https://docs.goplugin.co/)
 * [GOPLUGIN Development channel on Discord](https://discord.gg/4ATypYHudd) (👈Come here to get your questions answered)
 
 ## Introduction
@@ -36,7 +38,7 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 * Defi
 * NFT-Gaming
 
-### Judgement Criteria-- Participants should abide the following 
+### Judgement Criteria
 * Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
 * Should upload their repository in plugin-org/Hackathon - Sub-folder
 * Should provide clear read-me file, on how to execute the same the repository
