@@ -35,11 +35,19 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 * Defi
 * NFT-Gaming
 
-### Judgement Criteria 
+### Judgement Criteria-- Participants should abide the following 
+* Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
+* Should upload their repository in plugin-org/Hackathon - Sub-folder
+* Should provide clear read-me file, on how to execute the same the repository
+* Should provide valid "XDCPay" Pubic wallet address to receive the bounty / prize
+* Idea should be innovative
 
-### Do's & Dont's 
+### Do's 
+* Always give credits to the respective repository owner if you are using someother solutions
 
-### Do's & Dont's 
+### Dont's 
+* Do not copy paste the existing repo and just submit
+* Never 
 
 
 <!---
