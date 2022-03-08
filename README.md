@@ -7,10 +7,11 @@
 ## Table of Contents
 * [Resources](#Resources)
 * [Introduction](#Introduction)
-    * [Why Plugin at the Hackathon](#Why-SKALE-at-the-Hackathon)
+    * [Why Plugin Hackathon](#Why-Plugin-Hackathon)
 * [Bounties](#Bounties-for-Participants)
     * [Overview](#Bounty-Overview)
     * [Judging Criteria](#Judging-Criteria)
+* [Industry to focus](#Industry_to_focus)
 
 ## Resources
 * [GOPLUGIN Website](https://www.goplugin.co/)
